@@ -1,4 +1,4 @@
-# Explanable_ML
+# Explainable_ML
 We built a **web application** through which people can explain the predictions of various classifiers on different datasets
 using *LIME* as well as *aLIME*
 They needn’t have any expertise in programming or machine learning.
